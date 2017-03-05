@@ -1,0 +1,27 @@
+The objective of this primitive game is to reach the yellow tile.
+It currently has only two levels.
+
+Lives are displayed in red.
+Moves are displayed in green.
+
+TYPES OF BLOCKS
+RED - Bridge activator
+BLUE - Dangerous tile
+GREEN - Teleporting tile
+YELLOW- Goal tile
+
+CONTROLS
+Arrow keys - move around
+P - split and switch between split blocks
+J - join adjacent blocks
+WSAD - camera motion
+Mouse - freelook
+T - top view
+N - reset view
+Q - quit game
+
+TO RUN THE GAME
+$ make
+$ ./run
+
+
